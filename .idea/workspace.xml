@@ -7,12 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c21734f5-06cf-4007-9d9f-c70433b403a0" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/bjpowernode/entity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bjpowernode/entity/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="我的JQuery项目源码" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -189,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596019957107</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="112233">
+      <created>1596022744099</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596022744099</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,10 +218,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="277" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595993231365" />
-    <state x="724" y="63" key="CommitChangelistDialog2" timestamp="1596019955669">
+    <state x="724" y="63" key="CommitChangelistDialog2" timestamp="1596022742861">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="724" y="63" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596019955669" />
+    <state x="724" y="63" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596022742861" />
     <state x="630" y="355" key="FileChooserDialogImpl" timestamp="1596018099857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -288,6 +298,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="285" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596020054744" />
+    <state x="749" y="321" key="git4idea.merge.GitPullDialog" timestamp="1596023141862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="321" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596023141862" />
+    <state x="1100" y="428" key="git4idea.ui.GitStashDialog" timestamp="1596022767154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1100" y="428" key="git4idea.ui.GitStashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596022767154" />
+    <state x="722" y="385" key="git4idea.ui.GitUnstashDialog" timestamp="1596023237015">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="385" key="git4idea.ui.GitUnstashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596023237015" />
     <state x="466" y="111" key="new project wizard" timestamp="1596019034350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
