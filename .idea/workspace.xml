@@ -7,43 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c21734f5-06cf-4007-9d9f-c70433b403a0" name="默认更改列表" comment="112233">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JQuery_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QueryCityServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QueryProviceServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/classes/com/bjpowernode/dao/QueryDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/classes/com/bjpowernode/entity/City.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/classes/com/bjpowernode/entity/Province.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/lib/jackson-core-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/lib/jackson-databind-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/js/jquery-3.4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/我的JQuery项目源码/com/bjpowernode/controller/QueryCityServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/我的JQuery项目源码/com/bjpowernode/controller/QueryProviceServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/我的JQuery项目源码/com/bjpowernode/dao/QueryDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/我的JQuery项目源码/com/bjpowernode/entity/City.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/我的JQuery项目源码/com/bjpowernode/entity/Province.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/controller/QueryCityServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/controller/QueryProviceServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/dao/QueryDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/entity/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/entity/Province.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-core-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-databind-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/jquery-3.4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/我的JQuery项目源码.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +52,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -203,6 +167,7 @@
       <updated>1595992990238</updated>
       <workItem from="1595992994613" duration="6569000" />
       <workItem from="1596016788271" duration="1436000" />
+      <workItem from="1596019368936" duration="843000" />
     </task>
     <servers />
   </component>
@@ -294,10 +259,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="716" height="84" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596016638350" />
-    <state x="890" y="189" key="SettingsEditor" timestamp="1596018015750">
+    <state x="770" y="195" key="SettingsEditor" timestamp="1596019446563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="890" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596018015750" />
+    <state x="770" y="195" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596019446563" />
+    <state x="1067" y="553" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596020085506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1067" y="553" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596020085506" />
+    <state x="1017" y="444" key="git4idea.merge.GitPullDialog" timestamp="1596020171932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1017" y="444" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596020171932" />
     <state x="466" y="111" key="new project wizard" timestamp="1596016890362">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
