@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5af482df-fc47-46c0-b460-cd0abddccadf" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bjpowernode/entity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bjpowernode/entity/Person.java" afterDir="false" />
-    </list>
+    <list default="true" id="5af482df-fc47-46c0-b460-cd0abddccadf" name="默认更改列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,13 +160,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c21734f5-06cf-4007-9d9f-c70433b403a0" name="默认更改列表" comment="" />
+      <changelist id="5af482df-fc47-46c0-b460-cd0abddccadf" name="默认更改列表" comment="" />
       <created>1595992990238</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595992990238</updated>
       <workItem from="1595992994613" duration="6569000" />
       <workItem from="1596016788271" duration="3549000" />
+      <workItem from="1596030291737" duration="278000" />
     </task>
     <task id="LOCAL-00001" summary="112233">
       <created>1596018390733</created>
@@ -185,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596019957107</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="112233">
+      <created>1596030329321</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596030329321</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,10 +209,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="277" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595993231365" />
-    <state x="724" y="63" key="CommitChangelistDialog2" timestamp="1596019955669">
+    <state x="724" y="63" key="CommitChangelistDialog2" timestamp="1596030606013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="724" y="63" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596019955669" />
+    <state x="724" y="63" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596030606013" />
     <state x="630" y="355" key="FileChooserDialogImpl" timestamp="1596018099857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -276,6 +281,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="716" height="84" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596016638350" />
+    <state x="165" y="81" key="MergeDialog" timestamp="1596030484783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="165" y="81" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596030484783" />
+    <state x="856" y="243" key="MultipleFileMergeDialog" timestamp="1596030501282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="856" y="243" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596030501282" />
     <state x="653" y="195" key="SettingsEditor" timestamp="1596030302688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -284,6 +297,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="285" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596020054744" />
+    <state x="1139" y="438" key="git4idea.merge.GitPullDialog" timestamp="1596030372564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1139" y="438" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596030372564" />
     <state x="466" y="111" key="new project wizard" timestamp="1596019034350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
