@@ -9,8 +9,9 @@ public class Person {
      private  String username;
      private String pwd;
      private  String id;
-
+     private  Integer opp;
      private String address;
+
 
 
 
