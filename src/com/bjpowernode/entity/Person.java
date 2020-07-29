@@ -12,8 +12,7 @@ public class Person {
      private  Integer opp;
 
      private String address;
-
-
+     private String phone;
 
 
 
