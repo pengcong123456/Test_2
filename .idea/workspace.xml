@@ -6,12 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="c21734f5-06cf-4007-9d9f-c70433b403a0" name="默认更改列表" comment="112233">
-=======
     <list default="true" id="c21734f5-06cf-4007-9d9f-c70433b403a0" name="默认更改列表" comment="">
->>>>>>> b964e91a908ee078ab38c22bfc50e5b1ad9dfcdc
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bjpowernode/entity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bjpowernode/entity/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -213,17 +208,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="277" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595993231365" />
-<<<<<<< HEAD
-    <state x="724" y="63" key="CommitChangelistDialog2" timestamp="1596021317720">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="724" y="63" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596021317720" />
-=======
     <state x="724" y="63" key="CommitChangelistDialog2" timestamp="1596019955669">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="724" y="63" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596019955669" />
->>>>>>> b964e91a908ee078ab38c22bfc50e5b1ad9dfcdc
     <state x="630" y="355" key="FileChooserDialogImpl" timestamp="1596018099857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -299,15 +287,7 @@
     <state x="806" y="285" key="Vcs.Push.Dialog.v2" timestamp="1596020054744">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-<<<<<<< HEAD
-    <state x="806" y="285" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596018738814" />
-    <state x="1062" y="256" key="git4idea.merge.GitPullDialog" timestamp="1596021334112">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1062" y="256" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596021334112" />
-=======
     <state x="806" y="285" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596020054744" />
->>>>>>> b964e91a908ee078ab38c22bfc50e5b1ad9dfcdc
     <state x="466" y="111" key="new project wizard" timestamp="1596019034350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
