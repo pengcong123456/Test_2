@@ -167,7 +167,7 @@
       <updated>1595992990238</updated>
       <workItem from="1595992994613" duration="6569000" />
       <workItem from="1596016788271" duration="3549000" />
-      <workItem from="1596030291737" duration="278000" />
+      <workItem from="1596030291737" duration="523000" />
     </task>
     <task id="LOCAL-00001" summary="112233">
       <created>1596018390733</created>
@@ -190,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596030329321</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="新增客户登录？修改配置文件">
+      <created>1596030636017</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596030636017</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +205,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="112233" />
-    <option name="LAST_COMMIT_MESSAGE" value="112233" />
+    <MESSAGE value="新增客户登录？修改配置文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增客户登录？修改配置文件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596007313661">
@@ -209,10 +217,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="277" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595993231365" />
-    <state x="724" y="63" key="CommitChangelistDialog2" timestamp="1596030606013">
+    <state x="724" y="63" key="CommitChangelistDialog2" timestamp="1596030930995">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="724" y="63" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596030606013" />
+    <state x="724" y="63" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596030930995" />
     <state x="630" y="355" key="FileChooserDialogImpl" timestamp="1596018099857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -293,10 +301,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="653" y="195" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596030302688" />
-    <state x="806" y="285" key="Vcs.Push.Dialog.v2" timestamp="1596020054744">
+    <state x="806" y="285" key="Vcs.Push.Dialog.v2" timestamp="1596030664524">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="806" y="285" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596020054744" />
+    <state x="806" y="285" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596030664524" />
     <state x="1139" y="438" key="git4idea.merge.GitPullDialog" timestamp="1596030372564">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
