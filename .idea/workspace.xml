@@ -6,7 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c21734f5-06cf-4007-9d9f-c70433b403a0" name="默认更改列表" comment="">
+    <list default="true" id="5af482df-fc47-46c0-b460-cd0abddccadf" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bjpowernode/entity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bjpowernode/entity/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,12 +151,7 @@
       <list>
         <serviceView>
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -280,10 +276,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="716" height="84" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596016638350" />
-    <state x="890" y="189" key="SettingsEditor" timestamp="1596018724274">
+    <state x="653" y="195" key="SettingsEditor" timestamp="1596030302688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="890" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596018724274" />
+    <state x="653" y="195" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596030302688" />
     <state x="806" y="285" key="Vcs.Push.Dialog.v2" timestamp="1596020054744">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -10,8 +10,9 @@ public class Person {
      private String pwd;
      private  String id;
      private  Integer opp;
+
      private String address;
-     private String phone;
+
 
 
 
